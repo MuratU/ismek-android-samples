@@ -1,0 +1,20 @@
+package com.dnkilic.application17;
+
+import android.media.MediaPlayer;
+import android.media.audiofx.AudioEffect;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.EditText;
+
+public class MainActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        EditText et = (EditText) findViewById(R.id.etHacked);
+        et.setText("deneme deneme");
+    }
+}
