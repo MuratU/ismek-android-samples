@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Application38</string>
+
+    <array name="currencies">
+        <item>TÜRK LİRASI</item>
+        <item>ABD DOLARI</item>
+        <item>AVUSTRALYA DOLARI</item>
+        <item>DANİMARKA KRONU</item>
+        <item>EURO</item>
+        <item>İNGİLİZ STERLİNİ</item>
+        <item>İSVİÇRE FRANGI</item>
+        <item>İSVEÇ KRONU</item>
+        <item>KANADA DOLARI</item>
+        <item>KUVEYT DİNARI</item>
+        <item>NORVEÇ KRONU</item>
+        <item>SUUDİ ARABİSTAN RİYALİ</item>
+        <item>JAPON YENİ</item>
+        <item>BULGAR LEVASI</item>
+        <item>RUMEN LEYİ</item>
+        <item>RUS RUBLESİ</item>
+        <item>İRAN RİYALİ</item>
+        <item>ÇİN YUANI</item>
+        <item>PAKİSTAN RUPİSİ</item>
+    </array>
+
+
+</resources>

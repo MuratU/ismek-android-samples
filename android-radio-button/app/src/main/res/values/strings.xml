@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application28</string>
+    <string name="toogle_turn_on">AÇTIM</string>
+    <string name="toogle_turn_off">KAPATTIM</string>
+</resources>
