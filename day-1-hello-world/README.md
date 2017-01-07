@@ -14,5 +14,7 @@
 
 ### Bakınız
 Toast : https://developer.android.com/guide/topics/ui/notifiers/toasts.html
+
 Log : https://developer.android.com/reference/android/util/Log.html
+
 Android Monitor : https://developer.android.com/studio/profile/android-monitor.html
