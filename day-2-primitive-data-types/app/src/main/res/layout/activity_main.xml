@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.dnkilic.application3.MainActivity">
+    tools:context="com.dnkilic.day2.primitives.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -16,6 +16,7 @@
         android:text="Large Text"
         android:id="@+id/tvResults"
         android:layout_marginTop="73dp"
+        android:textColor="@color/colorAccent"
         android:layout_alignParentTop="true"
         android:layout_toLeftOf="@+id/button"
         android:layout_toStartOf="@+id/button" />

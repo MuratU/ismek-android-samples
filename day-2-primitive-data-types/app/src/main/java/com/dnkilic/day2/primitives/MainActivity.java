@@ -1,10 +1,12 @@
-package com.dnkilic.application3;
+package com.dnkilic.day2.primitives;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
+
+import com.dnkilic.day2.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -68,6 +70,5 @@ public class MainActivity extends AppCompatActivity {
 
         tvResultsInitialized.setText(values2);
         Log.i("deneme" , values2);
-
     }
 }
