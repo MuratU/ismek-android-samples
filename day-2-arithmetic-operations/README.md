@@ -4,8 +4,8 @@
 
 ### Çevirme İşlemlerinin Yapıldığı Method
 
-![](screenshots/add.png)
+<img src="screenshots/add.png" width="480">
 
 ### Uygulamanın Ekran Görüntüsü
 
-![](screenshots/emulator.png)
+<img src="screenshots/emulator.png" width="300">
