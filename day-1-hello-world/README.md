@@ -6,7 +6,7 @@
 
 ### OnCreate Methodu İçerisinde Log ve Toast Çağrısı
 
-![](screenshots/ss_toast.png)
+![](<img src="screenshots/ss_toast.png" width="48">)
 
 ### Android Toast
 
