@@ -1,6 +1,6 @@
 # DAY 1 - Hello World
 
-### Console'a Log basmak
+### Console'a Log Basmak
 
 ![](screenshots/ss_log.png)
 
