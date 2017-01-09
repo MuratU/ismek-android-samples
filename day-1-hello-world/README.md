@@ -10,7 +10,7 @@
 
 ### Android Toast
 
-![](screenshots/ss_toast_emulator.png)
+<img src="screenshots/ss_toast_emulator.png" width="480">
 
 ### Bakınız
 Toast : https://developer.android.com/guide/topics/ui/notifiers/toasts.html
