@@ -2,7 +2,7 @@
 
 ### Bu Örnek Primitive Data Tiplerinin DECLARE Edildikleri Anda Default Bir Değere Sahip Olduklarını Gösteriyor
 
-<img src="screenshots/emulator.png" width="480">
+<img src="screenshots/emulator.png" width="300">
 
 ### İşlemin OnCreate Methodu İçerisinde Değilde test Metodu İçerisinde Yapılmasına Dikkat Edin
 
