@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="shape_player_stroke">#000000</color>
+    <color name="shape_player_solid">#6a1a1919</color>
+
+    <item name="sestek_orange" type="color">#FF6600</item>
+    <item name="orange_pressed" type="color">#B34700</item>
+
+    <item name="dark_white" type="color">#FFC6BDC0</item>
+</resources>

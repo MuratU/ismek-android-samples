@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@android:color/holo_orange_dark"
+    tools:context="dnkilic.splashscreen.MainActivity">
+
+
+    <Switch
+        android:text="Bluetooth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/swBluetooth"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+
+        <RadioButton
+            android:text="Monkey"
+            android:checked="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tbWifi"
+            android:layout_alignRight="@+id/tbWifi"
+            android:layout_alignEnd="@+id/tbWifi"
+            android:layout_marginTop="31dp"
+            android:id="@+id/rbMonkey"
+            android:layout_weight="1"
+            android:onClick="onGenderSelected"/>
+
+        <RadioButton
+            android:text="Giraffe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbGiraffe"
+            android:layout_weight="1"
+            android:onClick="onGenderSelected" />
+
+        <RadioButton
+            android:text="Dog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbDog"
+            android:layout_weight="1"
+            android:onClick="onGenderSelected" />
+
+        <RadioButton
+            android:text="Lion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rbLion"
+            android:layout_weight="1"
+            android:onClick="onGenderSelected" />
+
+    </RadioGroup>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spCountry"
+        android:entries="@array/COUNTRiES"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/swBluetooth"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ToggleButton
+        android:text="ToggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/tbWifi"
+        android:textOff="WIFI"
+        android:textOn="WIFI"
+        android:layout_below="@+id/spCountry"
+        android:layout_alignRight="@+id/swBluetooth"
+        android:layout_alignEnd="@+id/swBluetooth" />
+
+</RelativeLayout>

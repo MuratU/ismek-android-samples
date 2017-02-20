@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+    <array name="COUNTRiES">
+        <item>turkiye</item>
+        <item>fransa</item>
+        <item>malzeya</item>
+        <item>turkiye</item>
+        <item>turkiye</item>
+    </array>
+
+
+</resources>

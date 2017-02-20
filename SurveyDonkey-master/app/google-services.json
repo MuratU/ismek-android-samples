@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "1008813802963",
+    "firebase_url": "https://surveydonkey-301f9.firebaseio.com",
+    "project_id": "surveydonkey-301f9",
+    "storage_bucket": "surveydonkey-301f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008813802963:android:fcdf84434948addd",
+        "android_client_info": {
+          "package_name": "com.dnkilic.surveydonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008813802963-s8lsdok2rfiiah7al6oc8s1lcaor9i64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnkilic.surveydonkey",
+            "certificate_hash": "1AF58635E773B400ACC45AB8A265BCA64D7D6FED"
+          }
+        },
+        {
+          "client_id": "1008813802963-9eara64uuh708gv9cgekapriinkmepr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [ { "current_key": "AIzaSyDS22cO_R-Kf1fi1ClHQNYdFXo0Q-1oVBs" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008813802963-9eara64uuh708gv9cgekapriinkmepr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
